@@ -1,13 +1,9 @@
 # Service-Menu
 <p><b>EN</b> <br />
-<<<<<<< HEAD
+
 This app starts hidden service menu which is also available by dialing a sercret code in stock dialer.<br />
 The program works in two automated modes:
-=======
-Android app for starting hidden service menu which is also available by dialing a sercret code in stock dialer.<br />
-<br/>
-The are two modes in this app:
->>>>>>> d62a36684e3deb9c4f5368b71f85d6c4ff3f60f2
+
 <ol>
 <li>for Sony devices with stock ROM - 2 secret codes;</li>
 <li>for all other devices - 1 secret code.</li>
@@ -25,11 +21,8 @@ This program is most useful for tablet users where there's no any dialers for en
 
 <p><b>RU</b> <br />
 Программа запускает скрытое сервисное меню, также доступное при наборе секретного кода из стоковой программы
-<<<<<<< HEAD
-для звонков.<br />
-=======
 для звонков.<br /><br />
->>>>>>> d62a36684e3deb9c4f5368b71f85d6c4ff3f60f2
+
 У программы есть два автоматических режима работы:
 <ol>
 <li>для устройств Sony с заводской прошивкой - 2 секретных кода; </li>
