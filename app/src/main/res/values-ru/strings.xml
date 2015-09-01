@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Сервисное меню</string>
+    <string name="title">Выберите опцию</string>
+    <array name="options" >
+        <item name="sony">Sony Service Menu</item>
+        <item name="android">Android Test Menu</item>
+    </array>
+</resources>
