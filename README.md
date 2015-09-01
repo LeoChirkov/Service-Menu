@@ -1,7 +1,7 @@
 # Service-Menu
 <p><b>EN</b> <br />
 
-This app starts hidden service menu which is also available by dialing a sercret code in stock dialer.<br />
+This app starts hidden service menu which is also available by dialing a secret code in stock dialer.<br />
 The program works in two automated modes:
 
 <ol>
