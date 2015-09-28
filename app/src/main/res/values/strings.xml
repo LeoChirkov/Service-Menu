@@ -2,7 +2,7 @@
     <string name="app_name">Service Menu</string>
     <string name="title">Choose an option</string>
     <array name="options" >
-        <item name="sony">Sony Service Menu</item>
-        <item name="android">Android Test Menu</item>
+        <item name="sony">Hidden Service Menu</item>
+        <item name="android">Phone Information</item>
     </array>
 </resources>
