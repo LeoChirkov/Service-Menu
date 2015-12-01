@@ -20,6 +20,8 @@ from the user. That's why it's so lightweight (29 Kb) and doesn't require any pe
 
 This program is most useful for tablet users where there's no any dialers for entering secret codes.</p>
 
+<p>Can be downloaded from <a href="https://f-droid.org/repository/browse/?fdfilter=service+menu&fdid=sony.hidden.servicemenu">f-droid.org</a> - catalogue of FOSS (Free and Open Source Software) applications.</p>
+
 <p><b>RU</b> <br />
 Программа запускает скрытое сервисное меню, также доступное при наборе секретного кода из стоковой программы
 для звонков.<br /><br />
@@ -41,3 +43,4 @@ This program is most useful for tablet users where there's no any dialers for en
 
 Эта программа будет особенно полезна владельцам планшетов, в которых отсутствует программа для набора номера, без
 которой ввод секретного кода становится затруднительным.</p>
+<p>Программу можно скачать на <a href="https://f-droid.org/repository/browse/?fdfilter=service+menu&fdid=sony.hidden.servicemenu">f-droid.org</a> - каталог программ с открытым исходным кодом.</p>
