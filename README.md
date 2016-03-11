@@ -50,7 +50,7 @@ This program is most useful for tablet users where there's no any dialers for en
 <img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/UI3.png" height="405" width="270" alt="Initial Menu">
 <img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony1.png" height="405" width="270" alt="Sony Hidden Menu">
 <img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony2.png" height="405" width="270" lt="Sony Hidden Menu">
-<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony3.png" height="405" width="270" lt="Sony Hidden Menu">
-<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/HTC.jpg" height="405" width="270" lt="HTC Hidden Menu">
-<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/LG.jpg" height="405" width="270" lt="LG Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony3.png" height="405" width="270" lt="Sony Hidden Menu" align="top">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/HTC.jpg" height="480" width="270" lt="HTC Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/LG.jpg" height="480" width="270" lt="LG Hidden Menu">
 <img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Phone%20Information.png" height="405" width="270" alt="Genereal Android Phone Information">
