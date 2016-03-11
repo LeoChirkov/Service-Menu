@@ -44,3 +44,13 @@ This program is most useful for tablet users where there's no any dialers for en
 Эта программа будет особенно полезна владельцам планшетов, в которых отсутствует программа для набора номера, без
 которой ввод секретного кода становится затруднительным.</p>
 <p>Программу можно скачать на <a href="https://f-droid.org/repository/browse/?fdfilter=service+menu&fdid=sony.hidden.servicemenu">f-droid.org</a> - каталог программ с открытым исходным кодом.</p>
+
+<p><b>Screenshots</b> <br />
+
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/UI3.png" height="405" width="270" alt="Initial Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony1.png" height="405" width="270" alt="Sony Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony2.png" height="405" width="270" lt="Sony Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Sony3.png" height="405" width="270" lt="Sony Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/HTC.jpg" height="405" width="270" lt="HTC Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/LG.jpg" height="405" width="270" lt="LG Hidden Menu">
+<img src="https://github.com/LeoChirkov/Service-Menu/blob/master/screenshots/Phone%20Information.png" height="405" width="270" alt="Genereal Android Phone Information">
