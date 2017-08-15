@@ -1,0 +1,27 @@
+Categories:System
+License:GNU General Public License v3.0
+Web Site:
+Source Code:https://github.com/LeoChirkov/Service-Menu
+Issue Tracker:https://github.com/LeoChirkov/Service-Menu/issues
+
+Auto Name:Service Menu
+Summary:Shortcut to a hidden system service/testing menu for Sony, LG, Motorola and HTC
+Description:
+This app starts either proprietary or general Android hidden service/testing
+menu which is also available by dialing a secret code in stock dialer. Service
+menu is used for testing and fine tuning your phone or gathering some system
+info. Keep in mind, that proprietary service menu is available only in stock
+ROMs.
+.
+
+Repo Type:git
+Repo:https://github.com/LeoChirkov/Service-Menu
+
+Build:1.1,2
+    commit=v1.1
+    subdir=app
+
+Auto Update Mode:None
+Update Check Mode:Tags
+Current Version:1.1
+Current Version Code:2
